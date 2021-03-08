@@ -1,7 +1,7 @@
 {
-  "name": "DrMAFYA721",
+  "name": "LOST",
   "version": "2.1.0",
-  "description": "DrMAFYA721",
+  "description": "LOST",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
